@@ -1,3 +1,10 @@
+/*
+    Xamarin Shared Ad Example
+ *  www.github.com/bbhsu2/XamarinSharedAdExample
+ *  Written by Bernard Hsu
+ *  4/27/2014
+ */
+
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
